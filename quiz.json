@@ -1,0 +1,48 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "Graphite",
+                "Silicon",
+                "Charcoal",
+                "Phosphorous"
+            ],
+            "correct": {
+                "index": 0,
+                "text": "Graphite is used in pencils"
+            },
+            "number": 1,
+            "prompt": "Which of the following is used in pencils?"
+        },
+        {
+            "answers": [
+                "Oxygen",
+                "Hydrogen sulphide",
+                "Carbon dioxide",
+                "Nitrogen"
+            ],
+            "correct": {
+                "index": 1,
+                "text": "Brass gets discoloured in air because of the presence Hydrogen sulphide"
+            },
+            "number": 2,
+            "prompt": "Brass gets discoloured in air because of the presence of which of the following gases in air?"
+        },
+        {
+            "answers": [
+                "hydrogen",
+                "carbon dioxide",
+                "oxygen",
+                "nitrogen"
+            ],
+            "correct": {
+                "index": 3,
+                "text": "The gas usually filled in the electric bulb is Nitrogen"
+            },
+            "number": 3,
+            "prompt": "The gas usually filled in the electric bulb is ?"
+        }
+    ],
+    "title": "Science quiz",
+    "url": "https://github.com/ArcTopLabs"
+}
