@@ -1,4 +1,4 @@
-#Quiz App
+# Quiz App #
 
 The Quiz App is HTML5 based application, you can use to Create quiz. Based on only 2 html5 pages, with single javascript this is complete in itself. 
 The Quiz are persistent in nature meaning your build quiz will be there the next time you open up the app. The app uses ArcTop Labs : MasterDataNode Data Solution
@@ -87,8 +87,13 @@ Replace the json created above to 'quiz : value' section of json for creating qu
 
 
 
+<<<<<<< HEAD
 # Orignial work :
 https://github.com/UrbanInstitute/quick-quiz
 
 ![alt text](https://github.com/ArcTopLabs/Survey-App/blob/master/screenshot/Survey%20App%20using%20MasterDataNode%2C%20jQuery%2C%20SurveyJS%20Library%20Example.png)
 ![alt text](https://github.com/ArcTopLabs/Survey-App/blob/master/screenshot/Survey%20Result.png
+=======
+# Orignial work : #
+https://github.com/UrbanInstitute/quick-quiz
+>>>>>>> origin/master
