@@ -91,4 +91,4 @@ Replace the json created above to 'quiz : value' section of json for creating qu
 https://github.com/UrbanInstitute/quick-quiz
 
 ![alt text](https://github.com/ArcTopLabs/Quiz-HTML5-App/blob/master/screenshot/Quiz%20Example%20answere.png)
-![alt text](https://github.com/ArcTopLabs/Survey-App/blob/master/screenshot/Survey%20Result.png)
+![alt text](https://github.com/ArcTopLabs/Quiz-HTML5-App/blob/master/screenshot/Quiz%20Example.png)
